@@ -1,0 +1,1 @@
+Read me: This site was created through following instructions found at: https://codingthesmartway.com/build-a-real-world-html5-css3-responsive-website-from-scratch/
